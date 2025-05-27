@@ -1,2 +1,2 @@
 # pull-requests-practice
-repository for practice
+this repository is for practiccing github pull requests workflow
